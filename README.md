@@ -38,8 +38,8 @@ The company is trying to decide whether to focus their efforts on their mobile a
 
 ## Results
 + We conclude that an unit change in **'Length of Membership'** causes the greatest effect on the **'Yearly Amount Spent'**.
- + An unit change in 'Length of Membership' causes change of 61.78 dollars spent per year.
- + An unit change in 'Time on App' causes change of 38.87 dollars spent per year.
+  + An unit change in 'Length of Membership' causes change of 61.78 dollars spent per year.
+  + An unit change in 'Time on App' causes change of 38.87 dollars spent per year.
 
 + **R-squared value: 0.9861924261981547**
 
