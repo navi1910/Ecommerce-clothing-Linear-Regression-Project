@@ -29,12 +29,9 @@ The company is trying to decide whether to focus their efforts on their mobile a
 + The required packages were imported.
 + The data was loaded.
 + The data was checked for null values.
-
-<img src='https://github.com/navi1910/Ecommerce-clothing-Linear-Regression-Project/blob/master/heatmap.png' height=50% width=50%>
-
 + Exploratory data analysis was done using visualizations in order to figure which variable had the greatest effect on the Target Variable.
 
-<img src='https://github.com/navi1910/Ecommerce-clothing-Linear-Regression-Project/blob/master/amt_spt%20vs%20len_mem.png' height=50% width=50%>
+<img src='https://github.com/navi1910/Ecommerce-clothing-Linear-Regression-Project/blob/master/heatmap.png' height=50% width=50%>
 
 + Linear Regression Model was built.
 
